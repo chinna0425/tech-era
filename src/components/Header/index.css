@@ -1,0 +1,12 @@
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 10vh;
+}
+.nav-container {
+  width: 90%;
+}
+.nav-logo-image {
+  width: 150px;
+}

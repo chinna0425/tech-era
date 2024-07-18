@@ -1,0 +1,20 @@
+.home-page-main-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.home-page-title-heading {
+  width: 90%;
+  font-size: 32px;
+  font-weight: 600;
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+.unorderd-list-tech-items {
+  width: 90%;
+  padding: 0px;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,21 @@
+.link-style {
+  text-decoration: none;
+  width: 20%;
+}
+.each-tech-list-item {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 60px;
+}
+.each-tech-card-image {
+  width: 90px;
+  height: 90px;
+}
+.each-tech-card-title {
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 600;
+  color: #1e293b;
+  margin-left: 20px;
+}
